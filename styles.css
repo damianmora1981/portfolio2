@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{
+	font-family: "Sacramento";
+	text-align: center;
+}
+
+div {
+  justify-content: center;
+ 
+}
+
+body{
+	background-color: #9ed9c5;
+}
