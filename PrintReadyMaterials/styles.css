@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{
+	font-family: "Orbitron";
+	text-align: center;
+	color: white;
+}
+
+div {
+  justify-content: center;
+ 
+}
+
+body{
+	background-color: black;
+}
